@@ -1,5 +1,5 @@
-Time,HR (bpm),Speed (km/h),Pace (min/km),Cadence,Altitude (m),Stride length (m),Distances (m),Temperatures (C),Power (W),
-,00:00:00,75,34.2,01:45,,1380,,4.70,29.0,,
+Sample rate,Time,HR (bpm),Speed (km/h),Pace (min/km),Cadence,Altitude (m),Stride length (m),Distances (m),Temperatures (C),Power (W),
+1,00:00:00,75,34.2,01:45,,1380,,4.70,29.0,,
 ,00:00:01,75,34.2,01:45,,1380,,4.70,29.0,,
 ,00:00:02,74,33.6,01:47,,1380,,4.80,29.1,,
 ,00:00:03,75,32.4,01:51,,1380,,5.00,29.2,,
