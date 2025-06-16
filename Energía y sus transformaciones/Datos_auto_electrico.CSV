@@ -1,7 +1,4 @@
-Name,Sport,Date,Start time,Duration,Total distance (km),Average heart rate (bpm),Average speed (km/h),Max speed (km/h),Average pace (min/km),Max pace (min/km),Calories,Fat percentage of calories(%),Carbohydrate percentage of calories(%),Protein percentage of calories(%),Average cadence (rpm),Average stride length (cm),Running index,Training load,Ascent (m),Descent (m),Average power (W),Max power (W),Notes,Height (cm),Weight (kg),HR max,HR sit,VO2max,
-Francisco Rojas,CYCLING,20-05-2025,07:16:29,00:28:01,16.27,78,34.8,87.8,01:43,00:41,78,79,21,0,,,,,269,197,,,Experimento GPS con auto eléctrico #1 (Volvo XC40 2024),165.0,72.0,197,47,58,
-Sample rate,Time,HR (bpm),Speed (km/h),Pace (min/km),Cadence,Altitude (m),Stride length (m),Distances (m),Temperatures (C),Power (W),
-1
+Time,HR (bpm),Speed (km/h),Pace (min/km),Cadence,Altitude (m),Stride length (m),Distances (m),Temperatures (C),Power (W),
 ,00:00:00,75,34.2,01:45,,1380,,4.70,29.0,,
 ,00:00:01,75,34.2,01:45,,1380,,4.70,29.0,,
 ,00:00:02,74,33.6,01:47,,1380,,4.80,29.1,,
